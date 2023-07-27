@@ -44,6 +44,7 @@ input{
     height: 90px;
     margin-bottom: 30px;
     margin-top: 15px;
+    border: 1px solid black;
 }
 
 input::placeholder{
